@@ -5,6 +5,69 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0367" alt="aditya0367" /></a> </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+![Snake animation](https://raw.githubusercontent.com/Pete-Andrew/Pete-Andrew/d6ec99b841cf19bebff153786a019ef6fb897d0d/github-contribution-grid-snake.svg)
+
+<!-- [![Pete-Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pete-Andrew)](https://github.com/Pete-Andrew/github-readme-stats) -->
+
+<!-- <p><img align="left" src="https://github-readme-stats-eadh.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-stats-eadh.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p> -->
+
+
+
+
+<!--
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s   -- how to resolve the API limit with the stats. Need to use Classic personal access tokens from github.
+**Pete-Andrew/Pete-Andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+- ⚡ Fun fact: ...
+-->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **Javascript,React Js , Node Js**

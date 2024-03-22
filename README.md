@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aaditya</h1>
+
+<img align="left" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Pete-Andrew most used languages" />
+<hr/>
+
 <h3 align="center">A passionate Upcoming Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0367&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0367" /> </p>

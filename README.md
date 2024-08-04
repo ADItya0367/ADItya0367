@@ -7,9 +7,43 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0367&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0367" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0367" alt="aditya0367" /></a> </p>
+ </p>
 
 
+
+
+<table cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+        <th>
+            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></th>
+<th align='left'>
+    <br>
+    
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+- ⚡ Fun fact: ...- 🚀 I specialize in Full Stack Development, AWS & React Native Technologies
+
+- Full Stack | React Native | JIRA | Docker | Agile 
+
+- 📝 You can find my articles and in-depth technical insights at my [website](https://www.codepect.com)
+
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in//) to stay updated on my professional journey.
+
+- 📧 Feel free to reach out to me via email at brktrl@protonmail.ch.
+
+- 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/aaditya-ansh-03514224a).
+
+- 💬 Don't hesitate to Collaborate on Any FSD Project.
+        </th>
+    </tr>
+</table>
+<br>
 
 
 
@@ -43,17 +77,7 @@ https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-t
 https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s   -- how to resolve the API limit with the stats. Need to use Classic personal access tokens from github.
 **Pete-Andrew/Pete-Andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
 
@@ -75,17 +99,6 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Full Stack**
-
-- 🌱 I’m currently learning **Javascript,React Js , Node Js**
-
-- 👯 I’m looking to collaborate on **Any Project in FSD**
-
-- 💬 Ask me about **react , node ,Docker , Git , Javascript**
-
-- 📫 How to reach me **Linkedin**
-
-- ⚡ Fun fact **I Think i can bring some change(....) !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

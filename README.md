@@ -45,7 +45,7 @@
 </table>
 <br>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADItya0367&theme=react-dark)](https://github.com/ADItya0367/github-readme-activity-graph)
 
 
 # 💻 Skills:
